@@ -4,7 +4,7 @@
 
 # Installing (Kali Linux/Termux):
 
-$ git clone 
+$ git clone https://github.com/maxblack09/smile-photo-elbaji.git
 
 $ cd smile-photo-elbaji
 
